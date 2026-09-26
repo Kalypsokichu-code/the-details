@@ -12,3 +12,5 @@ media/raw/
 
 # The list of the app's internal names. Publishing it would publish the names.
 .leakwords
+scripts/
+scripts/
