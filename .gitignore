@@ -1,0 +1,14 @@
+.DS_Store
+
+# Swift Package Manager and Xcode
+.build/
+.swiftpm/
+xcuserdata/
+DerivedData/
+
+# Raw screen recordings are large; keep them out of git. Commit only final exports.
+*.mov
+media/raw/
+
+# The list of the app's internal names. Publishing it would publish the names.
+.leakwords
